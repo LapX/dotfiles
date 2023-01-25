@@ -560,8 +560,8 @@ stage {
 }
 
 .clock-display-box .clock {
-    padding-left: 12px;
-    padding-right: 12px;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 
 
